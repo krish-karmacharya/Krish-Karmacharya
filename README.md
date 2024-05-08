@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-karmacharya" alt="krish-karmacharya" /></a> </p>
 
-- 🔭 You can find all my project at (https://krish-karmacharya.github.io/Portfolio/)
+- 🔭 You can find all my project at (https://www.krishkarmacharya.com.np/)
 
 - 📫 How to reach me **karmacharya.krish1@gmail.com**
 
